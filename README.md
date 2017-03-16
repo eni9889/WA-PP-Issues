@@ -9,8 +9,8 @@ Bugs/Crashes should Include the following and be titled as so and also labled as
 [BUG] Some title
 
 - [ ] iOS Version
-- [ ] Instagram Version
-- [ ] IG ++ Tweak Version
+- [ ] WhatsApp Version
+- [ ] WA ++ Tweak Version
 - [ ] Crash Report: http://tweakcrashed.com
 - [ ] Please label the issue either Jailbreak or Sideloaded
 
