@@ -1,4 +1,4 @@
-# WA-PP-Issues
+# WA ++ Issues
 
 ***Before posting make sure you are on the latest version of WA++ on https://beta.unlimapps.com***
 
